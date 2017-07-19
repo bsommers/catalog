@@ -1,0 +1,8 @@
+name: web 
+description: |
+  std web servers 
+version: v1.0.0 
+category: web 
+maintainer: bsommers 
+license: MIT
+projectURL: http://127.0.0.1/ 
